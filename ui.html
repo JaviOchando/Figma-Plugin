@@ -1,0 +1,13 @@
+<h2>Flash prop</h2>
+<p>Objects properties in your face </p>
+<button id="Run">Flash me with the props!</button>
+
+
+<script>
+
+document.getElementById('Run').onclick = () => {
+    parent.postMessage({pluginMessage:"Run_button_clicked"},'*');
+  
+ }
+
+</script>

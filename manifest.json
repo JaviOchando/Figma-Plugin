@@ -1,0 +1,10 @@
+{
+  "name": "Flash prop",
+  "id": "1169663252508912046",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
